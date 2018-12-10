@@ -1,0 +1,5 @@
+
+
+local db name : elearning_db
+username : Logics
+password: j2K!dTUvSZs8d2zcPS
